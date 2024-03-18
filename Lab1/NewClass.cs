@@ -6,4 +6,8 @@ public class NewClass
     {
         
     }
+    
+    public void sayHello() {
+        Console.WriteLine("Hello!");
+    }
 }
